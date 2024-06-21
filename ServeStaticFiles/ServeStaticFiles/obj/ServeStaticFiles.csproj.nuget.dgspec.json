@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MyProjects\\sistem-analiz-proje\\repos\\ServeStaticFiles\\ServeStaticFiles\\ServeStaticFiles.csproj": {}
+    "C:\\MyProjects\\sistem-analiz-proje\\ASP.NET-Core_Intermediate\\ServeStaticFiles\\ServeStaticFiles\\ServeStaticFiles.csproj": {}
   },
   "projects": {
-    "C:\\MyProjects\\sistem-analiz-proje\\repos\\ServeStaticFiles\\ServeStaticFiles\\ServeStaticFiles.csproj": {
+    "C:\\MyProjects\\sistem-analiz-proje\\ASP.NET-Core_Intermediate\\ServeStaticFiles\\ServeStaticFiles\\ServeStaticFiles.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MyProjects\\sistem-analiz-proje\\repos\\ServeStaticFiles\\ServeStaticFiles\\ServeStaticFiles.csproj",
+        "projectUniqueName": "C:\\MyProjects\\sistem-analiz-proje\\ASP.NET-Core_Intermediate\\ServeStaticFiles\\ServeStaticFiles\\ServeStaticFiles.csproj",
         "projectName": "ServeStaticFiles",
-        "projectPath": "C:\\MyProjects\\sistem-analiz-proje\\repos\\ServeStaticFiles\\ServeStaticFiles\\ServeStaticFiles.csproj",
+        "projectPath": "C:\\MyProjects\\sistem-analiz-proje\\ASP.NET-Core_Intermediate\\ServeStaticFiles\\ServeStaticFiles\\ServeStaticFiles.csproj",
         "packagesPath": "C:\\Users\\54mus\\.nuget\\packages\\",
-        "outputPath": "C:\\MyProjects\\sistem-analiz-proje\\repos\\ServeStaticFiles\\ServeStaticFiles\\obj\\",
+        "outputPath": "C:\\MyProjects\\sistem-analiz-proje\\ASP.NET-Core_Intermediate\\ServeStaticFiles\\ServeStaticFiles\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

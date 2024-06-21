@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ServeStaticFiles")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b3814212ce16018838dfa4b0b87d84167d8c584")]
 [assembly: System.Reflection.AssemblyProductAttribute("ServeStaticFiles")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ServeStaticFiles")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

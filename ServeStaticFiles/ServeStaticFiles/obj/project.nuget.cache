@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Sq8NS7ex/5MRo8TpmlZCePMjqRG09a8mO96QWtj6mLzkS14PlB/Z1zwfd/bPVvGhQBqXfW09PSBzFZXYDKyZ1g==",
+  "dgSpecHash": "YnddaqgXd5gT1XMD+87JNW2LlfnQlmJHZTgZC/PboONV7HjYs2+2oxcrHCRsSmCFl4WexjzHEoC+GI+zq3JI8Q==",
   "success": true,
-  "projectFilePath": "C:\\MyProjects\\sistem-analiz-proje\\repos\\ServeStaticFiles\\ServeStaticFiles\\ServeStaticFiles.csproj",
+  "projectFilePath": "C:\\MyProjects\\sistem-analiz-proje\\ASP.NET-Core_Intermediate\\ServeStaticFiles\\ServeStaticFiles\\ServeStaticFiles.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

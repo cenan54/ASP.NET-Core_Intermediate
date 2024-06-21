@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "eQNXumkKLjp83xUt2Vh5hHdi4/asj+Y2tGapnga8Q2w=",
+  "Source": "ServeStaticFiles",
+  "BasePath": "_content/ServeStaticFiles",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ServeStaticFiles\\wwwroot",
+      "Source": "ServeStaticFiles",
+      "ContentRoot": "C:\\MyProjects\\sistem-analiz-proje\\ASP.NET-Core_Intermediate\\ServeStaticFiles\\ServeStaticFiles\\wwwroot\\",
+      "BasePath": "_content/ServeStaticFiles",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

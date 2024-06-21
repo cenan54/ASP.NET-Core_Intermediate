@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\MyProjects\\sistem-analiz-proje\\ASP.NET-Core_Intermediate\\ServeStaticFiles\\ServeStaticFiles\\wwwroot\\beach-sunset.jpg",
+      "PackagePath": "staticwebassets\\beach-sunset.jpg"
+    },
+    {
+      "Id": "C:\\MyProjects\\sistem-analiz-proje\\ASP.NET-Core_Intermediate\\ServeStaticFiles\\ServeStaticFiles\\wwwroot\\sample.txt",
+      "PackagePath": "staticwebassets\\sample.txt"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ServeStaticFiles.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ServeStaticFiles.props",
+      "PackagePath": "build\\ServeStaticFiles.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ServeStaticFiles.props",
+      "PackagePath": "buildMultiTargeting\\ServeStaticFiles.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ServeStaticFiles.props",
+      "PackagePath": "buildTransitive\\ServeStaticFiles.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
